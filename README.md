@@ -2,10 +2,10 @@
 
 L'objectif de ce projet est de nous apprendre à utiliser Docker en mettant en place trois Dockerfile et un docker-compose afin de créer un système de vote.
 
-#Pré-requis :
+# Pré-requis
 Installer Docker.
 
-#Comment tester le projet :
+# Tester le projet:
 
 -Faire un git clone sur votre ordinateur.
 -Lancer la commande docker-compose up --build
