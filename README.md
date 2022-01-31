@@ -1,4 +1,4 @@
-# Popeye-EPitech
+# Popeye-Epitech
 
 L'objectif de ce projet est de nous apprendre à utiliser Docker en mettant en place trois Dockerfile et un docker-compose afin de créer un système de vote.
 
