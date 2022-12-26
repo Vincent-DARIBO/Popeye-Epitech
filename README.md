@@ -1,12 +1,14 @@
 # Popeye-Epitech
 
-L'objectif de ce projet est de nous apprendre à utiliser Docker en mettant en place trois Dockerfile et un docker-compose afin de créer un système de vote.
+The goal of this project is to deploy poll website using Docker.
 
-# Pré-requis
+# Pre-requisits
 Installer Docker.
 
-# Tester le projet:
+# Build project:
 
--Faire un git clone sur votre ordinateur.
--Lancer la commande docker-compose up --build
--Aller sur votre navigateur web puis taper dans la barre d'URL localhost:5000 pour accéder à la page de vote et localhost:5001 pour voir les résultats du vote.
+- Clone the repository.
+- cd Popeye-Epitech
+- Execute docker-compose up --build in your terminal
+- Go on [this page](http://localhost:5000) to vote and [this page](http://localhost:5001) to see the result of the poll.
+Aller sur votre navigateur web puis taper dans la barre d'URL localhost:5000 pour accéder à la page de vote et localhost:5001 pour voir les résultats du vote.
